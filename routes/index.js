@@ -45,7 +45,7 @@ router.get("/getdata/:number", (req,res) => {
 
 /* nerimanya data ky gini
 {
-  "number" : "082117352710",
+  "number" : "112233445566",
   "hum" : "70",
   "temp" : "30"
 }
